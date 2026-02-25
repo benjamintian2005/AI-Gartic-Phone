@@ -1,1 +1,19 @@
+# Environment
 .env
+
+# Claude Code
+CLAUDE.md
+
+# Debug output
+debug_capture.png
+temp_canvas.ps
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# macOS
+.DS_Store
